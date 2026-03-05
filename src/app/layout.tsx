@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Ariana de Abreu — Designer Gráfico | Identidade Visual',
+  title: 'Ariana de Abreu Designer Gráfico | Identidade Visual',
   description: 'Design gráfico autoral com foco em identidade visual, logotipos, landing pages e materiais impressos. Atendimento com agenda limitada e qualidade que impressiona.',
   icons: {
     icon: '/images/fav-icon.svg',
