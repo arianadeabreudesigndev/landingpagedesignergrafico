@@ -4,7 +4,7 @@
 >
 > **full_description:** Landing page desenvolvida para apresentar serviços de design gráfico, com seções de herói, agenda interativa (círculos de progresso alimentados por Supabase), promoção sazonal, cards de serviços com ícones autorais e formulário de contato otimizado para conversão. Design responsivo, animações suaves e código modular com Next.js, TypeScript e Tailwind CSS;
 >
-> **technologies:** React, Next.js, TypeScript, Tailwind CSS, Supabase;
+> **technologies:** React, Next.js, TypeScript, Tailwind CSS;
 
 ---
 
